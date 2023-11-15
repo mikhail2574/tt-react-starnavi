@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tt-react-starnavi/static/css/main.4150df95.css",
+    "main.js": "/tt-react-starnavi/static/js/main.91791fbd.js",
+    "index.html": "/tt-react-starnavi/index.html",
+    "main.4150df95.css.map": "/tt-react-starnavi/static/css/main.4150df95.css.map",
+    "main.91791fbd.js.map": "/tt-react-starnavi/static/js/main.91791fbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4150df95.css",
+    "static/js/main.91791fbd.js"
+  ]
+}
